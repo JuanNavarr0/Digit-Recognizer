@@ -1,0 +1,9 @@
+# Essential dependencies
+tensorflow
+numpy
+gr
+pandas
+
+# Optional (for visualization and debugging)
+matplotlib
+seaborn
